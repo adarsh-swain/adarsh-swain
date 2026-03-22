@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:                                                                                                                                                                                          
 Hi, I'm Adarsh Swain 👋  <br><br>I am a passionate Java Developer who is constantly learning and building real-world applications.<br><br>- 💻 Working with: Java, Spring Boot, REST APIs, MySQL  <br>- 🔭 Currently developing: Web applications and backend systems  <br>- 🌱 Working: Microservices Architecture & System Design  <br>- ⚡ Focus: Writing clean, scalable, and efficient code  <br><br>I strongly believe in continuous learning and practical implementation.  <br>My goal is to grow into a highly skilled full-stack developer and contribute to impactful projects 🚀
 
 
