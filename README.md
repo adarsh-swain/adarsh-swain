@@ -25,3 +25,6 @@ Hi, I'm Adarsh Swain 👋  <br><br>I am a passionate Java Developer who is const
 [![](https://visitcount.itsvg.in/api?id=adarsh-swain&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
